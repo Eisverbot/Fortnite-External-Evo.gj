@@ -8,5 +8,5 @@ ud for 20 mins, get ur own driver
 https://e-z.bio/eisverbot
 
 Credits:
-Ritz (for pasting the cheat)
-Eisverbot (for updating it)
+- Ritz (for pasting the cheat)
+- Eisverbot (for updating it)
